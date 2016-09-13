@@ -1,0 +1,19 @@
+#ClarityC{
+  margin:auto;
+}
+.wrapC{
+  width: 96%;
+  margin-left: 2%;
+  margin-right: auto;
+}
+.btnfilter{
+  padding: 0 50px 0 50px;
+  margin-bottom: 1em;
+}
+
+.btn{
+  margin-left: 10%;
+}
+.textC{
+  text-align: center;
+}
